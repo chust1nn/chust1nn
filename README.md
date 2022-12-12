@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chust1nn
+- 👋 Hi, I’m @chust1n
 - 🌱 I’m currently learning python
 
 <!---

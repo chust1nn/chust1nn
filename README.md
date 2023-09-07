@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chust1n
-- 🌱 I’m currently learning python
+- I’m @chust1n
+- I’m currently learning java
 
 <!---
 chust1nn/chust1nn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
